@@ -1,0 +1,41 @@
+<!Doctype html>
+<html>
+<head>
+<title> Example of CellPadding and CellSpacing </title>
+</head>
+<body>
+<table border = "2px">
+<tr>
+<th rowspan = "2"> Heading </th>
+<th> Students</th>
+
+<th colspan = "3"> Details</th>
+
+</tr>
+
+<tr>
+<th> id </th>
+<th> Name</th>
+<th> Class</th>
+<th> Roll Number</th>
+</tr>
+
+<tr>
+<th rowspan = "4"> Student </th>
+<th> 1 </th>
+<th> Aakrity</th>
+<th> Web Technologies</th>
+<th> 1 </th>
+</tr>
+
+<tr>
+<th> 1 </th>
+<th> Aakrity</th>
+<th> Web Technologies</th>
+<th> 1 </th>
+
+
+</table>
+
+
+</body>

@@ -1,0 +1,30 @@
+<!Doctype html>
+<html>
+
+<head>
+
+<title> Form including radio button</title>
+</head>
+<body>
+
+<form>
+
+First Name <input type ="text" </input>
+<br>
+
+Last Name <input type ="text" </input>
+<br>
+
+Exam Roll No <input type = "text" </input>
+<br>
+
+Gender <input type = Radio>Male</input>
+ <input type = Radio>Female</input>
+
+
+
+</form>
+
+</body>
+
+</html>
