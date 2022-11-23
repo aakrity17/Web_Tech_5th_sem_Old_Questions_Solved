@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<body>
+<table border=2px>
+<tr>
+<th> Airlines </th>
+<th> Departure</th>
+<th> Destination</th>
+<th rowspan = "2"> Time</th>
+<th colspan = "2"> Fare</th>
+</tr>
+
+</table>
+</body>
+</html>
